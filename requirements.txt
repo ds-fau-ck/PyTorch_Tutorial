@@ -1,2 +1,5 @@
 notebook 
 matplotlib
+seaborn
+tqdm
+scikit-learn

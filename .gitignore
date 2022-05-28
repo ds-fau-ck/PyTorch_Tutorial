@@ -128,3 +128,23 @@ dmypy.json
 # Pyre type checker
 .pyre/
 hymenoptera_data/
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/t10k-images-idx3-ubyte
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/t10k-labels-idx1-ubyte
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/train-images-idx3-ubyte
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/train-images-idx3-ubyte.gz
+Fashion_MNIST/FashionMNISTDir/FashionMNIST/raw/train-labels-idx1-ubyte
+Fashion_MNIST/model_dir/CNN_model.pth
+Transfer_Learning/model_dir_2/CNN_ALEXNET_model.pth
+research_env/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+research_env/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte
+research_env/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte
+research_env/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte
+research_env/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+research_env/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte.gz
+research_env/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte
+research_env/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+research_env/model.pth
+research_env/hymenoptera_data.zip

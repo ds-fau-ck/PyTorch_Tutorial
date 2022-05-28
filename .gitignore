@@ -148,3 +148,5 @@ research_env/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte
 research_env/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
 research_env/model.pth
 research_env/hymenoptera_data.zip
+CNN_VGG_16/VGG16_full_model.h5
+CNN_VGG_16/data/data.zip

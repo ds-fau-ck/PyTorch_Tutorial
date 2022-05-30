@@ -1,0 +1,6 @@
+name: CNN_App
+
+conda_env: conda.yaml 
+
+entry_points:  
+  main: "python main.py"

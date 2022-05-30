@@ -153,3 +153,10 @@ CNN_VGG_16/data/data.zip
 CNN_VGG_16/trained_model.h5
 CNN_VGG_16/tflight_model_dir/vgg16_model_quant.tflite
 CNN_VGG_16/tflight_model_dir/vgg16_model.tflight
+CNN/data/data.zip
+bad_data/
+data/
+data.zip
+*.jpg
+*.docx
+*.txt

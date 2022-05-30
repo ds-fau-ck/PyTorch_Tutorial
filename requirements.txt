@@ -3,6 +3,8 @@ matplotlib
 seaborn
 tqdm
 scikit-learn
-tensorflow
+#tensorflow
 PyYAML
 mlflow
+pandas
+-e .

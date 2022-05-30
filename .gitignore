@@ -160,3 +160,10 @@ data.zip
 *.jpg
 *.docx
 *.txt
+mlruns/
+CNN/logs/fit/Mon_May_30_084906_2022/events.out.tfevents.1653893400.LAPTOP-02HNJQ0T.7020.0.v2
+CNN/logs/fit/Mon_May_30_093302_2022/events.out.tfevents.1653895984.LAPTOP-02HNJQ0T.17916.0.v2
+CNN/logs/fit/Mon_May_30_090247_2022/events.out.tfevents.1653894168.LAPTOP-02HNJQ0T.7020.1.v2
+CNN/logs/fit/Mon_May_30_090746_2022/events.out.tfevents.1653894467.LAPTOP-02HNJQ0T.7020.2.v2
+CNN/logs/fit/Mon_May_30_094449_2022/events.out.tfevents.1653896702.LAPTOP-02HNJQ0T.17916.2.v2
+CNN/logs/fit/Mon_May_30_093653_2022/events.out.tfevents.1653896215.LAPTOP-02HNJQ0T.17916.1.v2

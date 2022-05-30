@@ -4,3 +4,5 @@ seaborn
 tqdm
 scikit-learn
 tensorflow
+PyYAML
+mlflow

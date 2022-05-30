@@ -5,7 +5,7 @@ from tqdm import tqdm
 import os 
 import random
 from src.utils.common import read_yaml, create_directories, unzip_file
-#from src.utils.data_mgmt import validating_image
+from src.utils.data_mgmt import validating_image
 import urllib.request as req
 
 
@@ -38,6 +38,8 @@ def main(config_path):
     unzip_data_dir=config["data"]["unzip_data_dir"]
     create_directories([unzip_data_dir])
     unzip_file(source=data_file_path, dest=unzip_data_dir)
+    ### validating data    
+    validating_image(config)
 
     
 

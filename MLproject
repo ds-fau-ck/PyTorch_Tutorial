@@ -3,4 +3,7 @@ name: CNN_App
 conda_env: conda.yaml 
 
 entry_points:  
-  main: "python main.py"
+  main:
+    command: "python main.py"
+  get_data: 
+    command: "python get_data.py"

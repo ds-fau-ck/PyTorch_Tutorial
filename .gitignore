@@ -167,3 +167,13 @@ CNN/logs/fit/Mon_May_30_090247_2022/events.out.tfevents.1653894168.LAPTOP-02HNJQ
 CNN/logs/fit/Mon_May_30_090746_2022/events.out.tfevents.1653894467.LAPTOP-02HNJQ0T.7020.2.v2
 CNN/logs/fit/Mon_May_30_094449_2022/events.out.tfevents.1653896702.LAPTOP-02HNJQ0T.17916.2.v2
 CNN/logs/fit/Mon_May_30_093653_2022/events.out.tfevents.1653896215.LAPTOP-02HNJQ0T.17916.1.v2
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/t10k-images-idx3-ubyte
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/t10k-labels-idx1-ubyte
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/train-images-idx3-ubyte
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/train-images-idx3-ubyte.gz
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/train-labels-idx1-ubyte
+PyTorch_with_CNN/ImageDir/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+PyTorch_with_CNN/model_dir/CNN_model_1.pth
+PyTorch_with_CNN/model_dir/CNN_model.pth

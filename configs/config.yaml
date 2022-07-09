@@ -5,3 +5,10 @@ data:
   unzip_data_dir: data
   bad_data_dir: bad_data
   parent_data_dir: PetImages
+
+
+params: 
+  img_shape: [224,224,3]
+  lr: 0.01
+  loss: sparse_categorical_crossentropy
+  metrics: ["accuracy"]

@@ -177,3 +177,11 @@ PyTorch_with_CNN/ImageDir/FashionMNIST/raw/train-labels-idx1-ubyte
 PyTorch_with_CNN/ImageDir/FashionMNIST/raw/train-labels-idx1-ubyte.gz
 PyTorch_with_CNN/model_dir/CNN_model_1.pth
 PyTorch_with_CNN/model_dir/CNN_model.pth
+PyTorch/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte
+PyTorch/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+PyTorch/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+PyTorch/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte
+PyTorch/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte.gz
+PyTorch/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte
+PyTorch/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+PyTorch/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte
